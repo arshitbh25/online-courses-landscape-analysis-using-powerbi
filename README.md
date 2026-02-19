@@ -56,7 +56,7 @@ hospital-database-design-and-automation-sql/
 
 
 ___
-<h2><a class="anchor" id="datasourse"></a>Data Source</h2>
+<h2><a class="anchor" id="datasource"></a>Data Source</h2>
 
 **Dataset :** Online Courses
 ```bash
